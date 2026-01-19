@@ -1,0 +1,47 @@
+name: flutter_application_1
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^9.0.2
+  flutter_map: ^4.0.0
+  latlong2: ^0.8.2
+  url_launcher: ^6.3.0
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.0
+
+  cupertino_icons: ^1.0.8
+
+  video_player: ^2.8.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/videos/curry.mp4
+    - assets/videos/fried_rice.mp4
+    - assets/videos/sushi.mp4
+    - assets/videos/ramen.mp4
+    - assets/videos/anpan.mp4
+    - assets/videos/melon_pan.mp4
+    - assets/videos/soft.mp4
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"

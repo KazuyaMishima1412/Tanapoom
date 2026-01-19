@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979177717842",
+    "project_id": "tanapoom-shop",
+    "storage_bucket": "tanapoom-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979177717842:android:88f24785fc0ba4ba259f8b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRZoso-nUwb2DCmW5y-yIzuNHLUfBbOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979177717842:android:810e6e58a7331d0b259f8b",
+        "android_client_info": {
+          "package_name": "tanapoom.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRZoso-nUwb2DCmW5y-yIzuNHLUfBbOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
